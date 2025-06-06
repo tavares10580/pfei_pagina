@@ -4,7 +4,7 @@
 :root {
     /* Cores personalizadas */
     --cor-primaria: #4A90E2; /* Azul vibrante */
-    --cor-secundaria: #50E3C2; /* Verde água */
+    --cor-secundaria: linear-gradient(to rigt, cyan, #50E3C2); /* Verde água */
     --cor-terciaria: #F5A623; /* Laranja */
     --cor-texto: #333;
     --cor-fundo-secao: #FFFFFF;
