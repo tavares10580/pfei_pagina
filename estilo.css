@@ -8,8 +8,8 @@
     --cor-terciaria: #F5A623; /* Laranja */
     --cor-texto: #333;
     --cor-fundo-secao: #FFFFFF;
-    --cor-gradiente-inicio: #E0F2F7; /* Azul claro */
-    --cor-gradiente-fim: #D1F2EB;   /* Verde menta */
+    --cor-gradiente-inicio: cyan; /* Azul claro */
+    --cor-gradiente-fim: green;   /* Verde menta */
 }
 
 * {
